@@ -98,4 +98,4 @@ const ModelComparison = () => {
   );
 };
 
-export default ModelComparison;
+export default ModelComparison; // export
